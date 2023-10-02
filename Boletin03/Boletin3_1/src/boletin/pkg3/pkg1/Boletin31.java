@@ -7,7 +7,7 @@ package boletin.pkg3.pkg1;
 import java.util.Scanner;
 
 /**
- *
+ * hoola
  * @author dam1
  */
 public class Boletin31 {
